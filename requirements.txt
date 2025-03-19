@@ -1,0 +1,8 @@
+Flask
+PyPDF2
+python-docx
+faiss-cpu
+openai
+werkzeug
+gunicorn
+flask-session
